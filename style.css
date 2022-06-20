@@ -2,8 +2,9 @@
 body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+  font-size: 1.6rem;
 }
-#conteiner {
+#container {
   background: gray;
   max-width: 1500px;
   height: 100vh;
