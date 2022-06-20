@@ -6,8 +6,21 @@ body {
 }
 #container {
   background: gray;
-  max-width: 1500px;
+  width: 100%;
   height: 100vh;
-  margin: 0 auto;
   padding: 1rem;
+  display: flex;
+  align-items: center;
+}
+#container > section {
+  background: burlywood;
+  width: 50%;
+  height: 100%;
+  margin: 1rem;
+  padding: 1rem;
+}
+#container > section > section {
+  background: lightseagreen;
+  width: 100%;
+  height: 100%;
 }
