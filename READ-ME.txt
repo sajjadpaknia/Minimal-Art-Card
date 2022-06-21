@@ -1,0 +1,8 @@
+Project Name: Minimal Art Card
+Publisher: Sajjad Paknia
+History : 2022-6-21
+Technologies used: HTML and CSS
+Framework: -
+-------------------------
+Description :
+The project is not responsive.
