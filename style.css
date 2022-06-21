@@ -77,6 +77,10 @@ body {
   padding: 1rem;
   display: flex;
 }
+.product-author figure {
+  background: url(./assets/images/01\ \(4\).jpg) no-repeat center 1px;
+  background-size: cover;
+}
 .product-description,
 .product-author {
   grid-column: 1/3;
